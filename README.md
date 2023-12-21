@@ -11,5 +11,5 @@ The dataset utilized in this project has been sourced from the Kaggle dataset ti
 Furthermore, it's important to note that the house listings originate from Zillow, a well-known online real estate marketplace. The Zillow platform, available at https://www.zillow.com/, serves as a comprehensive source for real estate data, playing a crucial role in this project's exploration and analysis of the US housing market.
 
 ## Snapshots
-<img src="Snapshots/Main_Median.png"/>
-<img src="Snapshots/Filtered_2.png"/>
+<img src="Snapshots/Main_Average.png"/>
+<img src="Snapshots/Filtered_1.png"/>
